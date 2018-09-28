@@ -1,0 +1,20 @@
+{
+  "name": "ebabel-ido",
+  "version": "1.0.0",
+  "description": "Returns a a string that commemorates how many days since Ido died.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebabel-eu/ebabel-ido.git"
+  },
+  "keywords": [
+    "module",
+    "javascript"
+  ],
+  "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ebabel-eu/ebabel-ido/issues"
+  },
+  "homepage": "https://github.com/ebabel-eu/ebabel-ido#readme"
+}
