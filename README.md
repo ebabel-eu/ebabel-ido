@@ -1,5 +1,5 @@
 # ebabel-ido
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-ido.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-ido)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-ido.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-ido)
 
 Commemorate my cat who died on 10th July 2014 at 9:45am. Ido, I miss you so much. This module returns the number of days since Ido left us.
 
